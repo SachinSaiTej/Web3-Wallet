@@ -8,8 +8,8 @@ import Footer from "../components/Footer";
 const manrope = Manrope({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Kosh",
-  description: "Your Personal Web3 Wallet.",
+  title: "Tejas",
+  description: "My Personal Web3 Wallet.",
   icons: [
     {
       rel: "icon",
